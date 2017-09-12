@@ -47,3 +47,49 @@
 **图片**
 ![image](http://www.baidu.com/img/bd_logo1.png)
 
+![image](http://b175.photo.store.qq.com/psb?/V123HRhm3bsfjZ/VUX.50foyw*BfJXpJkN58z7pygNPhugaf1BQl8vshFM!/m/dK8AAAAAAAAAnull&bo=wAPQAgAAAAAFBzU!&rf=photolist&t=5)
+
+![image](http://b171.photo.store.qq.com/psb?/V123HRhm3bsfjZ/qPO5u9DYVMyB4TAB6flgBR*FZDYoVMCpgi0hbWkhLDU!/m/dKsAAAAAAAAAnull&bo=wAPQAgAAAAAFBzU!&rf=photolist&t=5)
+
+```js
+function show{
+
+}
+```
+
+```html
+<p>
+样式 <a href="http://baidu.com">链接</a>
+</p>
+```
+
+内联的代码 `alert('hello word')` 
+
+header1 | header2 | header3
+---|---|---|
+row 1 col 1 | row 1 col 2 | 3
+row 2 col 1 | row 2 col 2 | 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
